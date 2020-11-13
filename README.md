@@ -14,13 +14,7 @@
 
 Create an application that demostrate a Team Profile Generator.
 
-## Usage information
- 
- Run node index.js
 
- ## License
-
-None
 
 ## Test
  
